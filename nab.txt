@@ -1,0 +1,19 @@
+VERSION CONTROL
+Version control is a tool that keeps a history of your project so you can go back to any previous version anytime.
+Imagine writing an assignment:
+
+Version 1: introduction
+
+Version 2: added examples
+
+Version 3: corrected mistakes
+
+Version 4: final draft
+
+If you mess up in Version 4…
+➡️ You can go back to Version 3.
+
+Version control systems automatically save these versions for you.
+Google Docs track changes → you can go back to an older version.
+Version control does the same for code.
+
